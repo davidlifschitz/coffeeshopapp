@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #D97706;
+    color: white;
+}
+
+button {
+    background-color: #D97706;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #B45309;
+}
+
+.hidden {
+    display: none;
+}
