@@ -1,5 +1,11 @@
 {
   "appId": "com.example.coffeeshopapp",
   "appName": "CoffeeShopApp",
-  "webDir": "www"
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "bundledWebRuntime": false
 }
